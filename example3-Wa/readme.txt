@@ -1,0 +1,1 @@
+-Wa,<options>            Pass comma-separated <options> on to the assembler.
