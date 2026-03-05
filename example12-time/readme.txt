@@ -1,0 +1,1 @@
+-time                    Time the execution of each subprocess.
