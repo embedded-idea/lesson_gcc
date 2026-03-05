@@ -1,0 +1,1 @@
+-c                       Compile and assemble, but do not link.
