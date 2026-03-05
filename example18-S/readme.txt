@@ -1,0 +1,1 @@
+-S                       Compile only; do not assemble or link.
