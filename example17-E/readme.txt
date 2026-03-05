@@ -1,0 +1,3 @@
+-v                       Display the programs invoked by the compiler.
+-###                     Like -v but options quoted and commands not executed.
+-E                       Preprocess only; do not compile, assemble or link.
