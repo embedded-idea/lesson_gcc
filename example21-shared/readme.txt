@@ -1,0 +1,1 @@
+-shared                  Create a shared library.
